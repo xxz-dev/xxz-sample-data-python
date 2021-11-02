@@ -33,3 +33,11 @@ def conformant_4():
     f = open('file.txt')
     command = f.read()
     ast.literal_eval(command)
+    
+def dummy():
+    // this is a dummy method
+    print('dummy method')
+    
+def expect_finding(c):
+    command = 'os.system("%s")' % c
+    eval(command)
