@@ -394,6 +394,306 @@
                     "message": {
                         "text": "Xiaoxin test - finding" 
                     }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 24,
+                                    "endLine": 24
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 23,
+                                    "endLine": 23
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 22,
+                                    "endLine": 22
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 21,
+                                    "endLine": 21
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 20,
+                                    "endLine": 20
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 19,
+                                    "endLine": 19
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 18,
+                                    "endLine": 18
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 17,
+                                    "endLine": 17
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 16,
+                                    "endLine": 16
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 15,
+                                    "endLine": 15
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 14,
+                                    "endLine": 14
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 13,
+                                    "endLine": 13
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 12,
+                                    "endLine": 12
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 11,
+                                    "endLine": 11
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
+                                    "startLine": 10,
+                                    "endLine": 10
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
                 }
             ]
         }
