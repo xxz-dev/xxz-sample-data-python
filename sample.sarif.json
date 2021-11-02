@@ -225,68 +225,8 @@
                                     "uri": "src/sample/dangerous_eval.py"
                                 },
                                 "region": {
-                                    "startLine": 31,
-                                    "endLine": 31
-                                }
-                            }
-                        }
-                    ],
-                    "message": {
-                        "text": "Xiaoxin test - finding" 
-                    }
-                },
-                {
-                    "ruleId": "python/not-recommended-apis@v1.0",
-                    "level": "warning",
-                    "locations": [
-                        {
-                            "physicalLocation": {
-                                "artifactLocation": {
-                                    "uri": "src/sample/dangerous_eval.py"
-                                },
-                                "region": {
-                                    "startLine": 27,
-                                    "endLine": 27
-                                }
-                            }
-                        }
-                    ],
-                    "message": {
-                        "text": "Xiaoxin test - finding" 
-                    }
-                },
-                {
-                    "ruleId": "python/not-recommended-apis@v1.0",
-                    "level": "warning",
-                    "locations": [
-                        {
-                            "physicalLocation": {
-                                "artifactLocation": {
-                                    "uri": "src/sample/dangerous_eval.py"
-                                },
-                                "region": {
-                                    "startLine": 23,
-                                    "endLine": 23
-                                }
-                            }
-                        }
-                    ],
-                    "message": {
-                        "text": "Xiaoxin test - finding" 
-                    }
-                },
-                {
-                    "ruleId": "python/not-recommended-apis@v1.0",
-                    "level": "warning",
-                    "locations": [
-                        {
-                            "physicalLocation": {
-                                "artifactLocation": {
-                                    "uri": "src/sample/dangerous_eval.py"
-                                },
-                                "region": {
-                                    "startLine": 19,
-                                    "endLine": 19
+                                    "startLine": 25,
+                                    "endLine": 25
                                 }
                             }
                         }
@@ -325,28 +265,8 @@
                                     "uri": "src/sample/dangerous_eval.py"
                                 },
                                 "region": {
-                                    "startLine": 11,
-                                    "endLine": 11
-                                }
-                            }
-                        }
-                    ],
-                    "message": {
-                        "text": "Xiaoxin test - finding" 
-                    }
-                },
-                {
-                    "ruleId": "python/not-recommended-apis@v1.0",
-                    "level": "warning",
-                    "locations": [
-                        {
-                            "physicalLocation": {
-                                "artifactLocation": {
-                                    "uri": "src/sample/dangerous_eval.py"
-                                },
-                                "region": {
-                                    "startLine": 7,
-                                    "endLine": 7
+                                    "startLine": 5,
+                                    "endLine": 5
                                 }
                             }
                         }
