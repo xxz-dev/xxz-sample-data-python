@@ -185,6 +185,26 @@
                                     "uri": "src/sample/dangerous_eval.py"
                                 },
                                 "region": {
+                                    "startLine": 5,
+                                    "endLine": 5
+                                }
+                            }
+                        }
+                    ],
+                    "message": {
+                        "text": "Xiaoxin test - finding" 
+                    }
+                },
+                {
+                    "ruleId": "python/not-recommended-apis@v1.0",
+                    "level": "warning",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/sample/dangerous_eval.py"
+                                },
+                                "region": {
                                     "startLine": 6,
                                     "endLine": 6
                                 }
@@ -225,26 +245,6 @@
                                     "uri": "src/sample/dangerous_eval.py"
                                 },
                                 "region": {
-                                    "startLine": 25,
-                                    "endLine": 25
-                                }
-                            }
-                        }
-                    ],
-                    "message": {
-                        "text": "Xiaoxin test - finding" 
-                    }
-                },
-                {
-                    "ruleId": "python/not-recommended-apis@v1.0",
-                    "level": "warning",
-                    "locations": [
-                        {
-                            "physicalLocation": {
-                                "artifactLocation": {
-                                    "uri": "src/sample/dangerous_eval.py"
-                                },
-                                "region": {
                                     "startLine": 15,
                                     "endLine": 15
                                 }
@@ -254,7 +254,7 @@
                     "message": {
                         "text": "Xiaoxin test - finding" 
                     }
-                },
+                },                
                 {
                     "ruleId": "python/not-recommended-apis@v1.0",
                     "level": "warning",
@@ -265,8 +265,8 @@
                                     "uri": "src/sample/dangerous_eval.py"
                                 },
                                 "region": {
-                                    "startLine": 5,
-                                    "endLine": 5
+                                    "startLine": 25,
+                                    "endLine": 25
                                 }
                             }
                         }
